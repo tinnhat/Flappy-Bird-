@@ -1,0 +1,16 @@
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.exe
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.deps.json
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.runtimeconfig.json
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.runtimeconfig.dev.json
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.dll
+E:\lt windows\Flappy bird\Flappy bird\bin\Release\netcoreapp3.1\Flappy bird.pdb
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy_bird.Form1.resources
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy_bird.Properties.Resources.resources
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.csproj.GenerateResource.cache
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.AssemblyInfoInputs.cache
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.AssemblyInfo.cs
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.csproj.CoreCompileInputs.cache
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.dll
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.pdb
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.genruntimeconfig.cache
+E:\lt windows\Flappy bird\Flappy bird\obj\Release\netcoreapp3.1\Flappy bird.csprojAssemblyReference.cache
